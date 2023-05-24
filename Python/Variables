@@ -8,3 +8,4 @@
 name = 'John Smith'
 age = 20
 New = True 
+siblings= " Basil, Emmanuel, Judith, Jane, Collins"
