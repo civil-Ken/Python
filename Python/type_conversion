@@ -1,0 +1,10 @@
+#birth_year = input ("What year were you born? ")
+#print(type(birth_year))
+#age = 2023 - int (birth_year)
+#print (type(age))
+#print ("Your age is " + str (age)) 
+
+weight = input ("Weight in pounds: ")
+Kg = int(weight)/2.205
+print (Kg)
+

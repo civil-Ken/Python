@@ -1,0 +1,10 @@
+name = input ("What is youre name? ")
+print ("Hi "+ name)
+age = input ("How old are you? ")
+birth_year = 2023 - int(age)
+print (" I am guessing you were born in " + str (birth_year))
+
+name = input ("What is your name? ")
+color = input ("What is your favourite color? ")
+
+print (name + " likes " + color)
