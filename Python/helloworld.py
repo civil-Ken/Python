@@ -1,3 +1,3 @@
 print ("hello world")
-print("o----")
-print(" ||||")
+print ("I am going to learn this programming to the extreme")
+
