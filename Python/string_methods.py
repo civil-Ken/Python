@@ -7,3 +7,5 @@ course = 'Python for Beginners'
 print (course.find ('Beginners'))
 print ( course.replace('Beginners','Novice'))
 print ("for" in course )
+print (course.replace('B', 'K'))
+print ("Python" in course)
