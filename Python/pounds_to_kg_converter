@@ -8,3 +8,6 @@ weight = input ("Weight in pounds: ")
 Kg = int(weight)/2.205
 print (Kg)
 
+wt_lbs= input ('Weight in Lbs: ')
+wt_Kgs= 0.45 * int (wt_lbs)
+print ('weight in Kgs: ' + str (wt_Kgs))
