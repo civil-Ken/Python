@@ -7,3 +7,5 @@ y = 5.98
 import math
 
 print (math.ceil(y))
+print (math.ceil(5.98))
+print (round (y))
