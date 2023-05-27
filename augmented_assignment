@@ -1,0 +1,9 @@
+#x= 6
+#x = 6+3
+#x += 3 #augmented assignment operator
+
+x = 5
+x /= 2 # augmented assignment operator
+print (x)
+x = 4 + 8 *2 
+print (x)
