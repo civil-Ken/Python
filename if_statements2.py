@@ -9,5 +9,5 @@ if Weather == 'Hot' or 'hot' or "HOT":
 
 else:
     print ("It's a cold day")
-    print ("wear warm clothes")
+    print ("wear thick clothes")
 print ('Have  a nice day')
