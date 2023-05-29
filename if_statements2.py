@@ -3,7 +3,7 @@ print ('Please input Hot or Cold below')
 Weather= input ('How is the weather today? ')
 
 
-if Weather == 'Hot':
+if Weather == 'Hot' or 'hot' or "HOT":
     print ("It's a hot day")
     print ("Drink lots of water and go outside")
 
