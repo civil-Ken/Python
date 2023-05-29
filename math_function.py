@@ -14,3 +14,5 @@ print (math.ceil(5.5 ))
 print (math.floor(2.9))
 
 print (math.comb(x, 4))
+
+print (math.factorial(6))
